@@ -1,0 +1,4 @@
+# Ignore post-run files
+*.raw
+*.net
+*.log
